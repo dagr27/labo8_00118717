@@ -1,0 +1,21 @@
+Que contiene la variable formulario:
+el arreglo de la bitacora.
+
+Submit 
+2. Previene que se ejecute el codigo
+3. Contiene los atributos del formulario
+
+Nodos
+1. td por ser la columna contiene el contenido de los datos recuperados por medio de la variable o nodo content
+2. tr contiene los td agregados con anterioridad
+3. Una tabla con todos los valores insertados en la bitacora
+4. Crea un elemento y lo añade a la tabla
+
+Eliminar Nodos
+1.Obtiene el primer elemento de los nodos insertados en el arreglo
+2.Igual solo que removera el primer elemento de el arreglo
+3.El valor espesifico del atributo en cuestion
+4. Seleccionamos ese atributo del HTML por medio de las clases
+5. Devuelve un entero de la cantidad de elementos dentro de ese atributo padre
+6. Se agregara la bitacora a la tabla dinamicamente
+7.La tabla con todos los datos insertados
