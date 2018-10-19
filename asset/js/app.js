@@ -80,5 +80,9 @@ if (document.querySelector(".tabla-btc tbody").childElementCount > 0) {
   bitacoras.forEach(item => { 
       crearElemento(item, document.querySelector(".tabla-btc tbody")); 
     }); 
+    crearElemento => {
+        tr.appendChild(td);
+        tr.setAttribute('class','click');
+    }
     agregar(); 
 } 
